@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
@@ -42,10 +42,6 @@ Java                     1 repo              ███░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/afranio-viana/afranio-viana/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
