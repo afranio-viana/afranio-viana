@@ -43,9 +43,7 @@ Java                     1 repo              ███░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/afranio-viana/afranio-viana/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
