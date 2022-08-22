@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 65 Contributions in the Year 2022
+> 🏆 64 Contributions in the Year 2022
  > 
 > 📦 7.2 kB Used in GitHub's Storage 
  > 
@@ -41,5 +41,12 @@ PHP                      1 repo              ███░░░░░░░░�
 Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/afranio-viana/afranio-viana/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 [![Afrânio Viana GitHub stats](https://github-readme-stats.vercel.app/api?username=afranio-viana)](https://github.com/anuraghazra/github-readme-stats)
