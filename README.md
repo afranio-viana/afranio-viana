@@ -41,9 +41,5 @@ PHP                      1 repo              ███░░░░░░░░�
 Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
-
-
-
-
-
 <!--END_SECTION:waka-->
+[![Afrânio Viana GitHub stats](https://github-readme-stats.vercel.app/api?username=afranio-viana)](https://github.com/anuraghazra/github-readme-stats)
