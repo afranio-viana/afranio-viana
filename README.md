@@ -17,20 +17,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-170-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-227-blue)
 
-**🐱 Meus dados no GitHub** 
-
-> 🏆 77 Contribuições no ano de 2022
- > 
-> 📦 7.2 kB Usado no armazenamento do GitHub 
- > 
-> 🚫 Não aberto para contratação
- > 
-> 📜 10 Repositórios Públicos 
- > 
-> 🔑 0 Repositórios Privados  
- > 
 📊 **Esta semana eu gastei meu tempo em** 
 
 ```text
