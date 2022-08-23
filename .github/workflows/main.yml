@@ -20,4 +20,4 @@ jobs:
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_PROJECTS: "False"
           SHOW_EDITORS: "False"
-          Locale: "pt_BR"
+          LOCALE: "pt_BR"
