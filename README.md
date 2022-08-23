@@ -17,35 +17,35 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-170-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-170-blue)
 
-**🐱 My GitHub Data** 
+**🐱 Meus dados no GitHub** 
 
-> 🏆 84 Contributions in the Year 2022
+> 🏆 77 Contribuições no ano de 2022
  > 
-> 📦 7.2 kB Used in GitHub's Storage 
+> 📦 7.2 kB Usado no armazenamento do GitHub 
  > 
-> 🚫 Not Opted to Hire
+> 🚫 Não aberto para contratação
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Repositórios Públicos 
  > 
-> 🔑 0 Private Repositories  
+> 🔑 0 Repositórios Privados  
  > 
-📊 **This Week I Spent My Time On** 
+📊 **Esta semana eu gastei meu tempo em** 
 
 ```text
-⌚︎ Time Zone: America/Manaus
+⌚︎ Fuso horário: America/Manaus
 
-💬 Programming Languages: 
+💬 Linguagens de programação: 
 Python                   1 hr 13 mins        ████████████████████████░   96.72% 
 Kotlin                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28%
 
-💻 Operating System: 
+💻 Sistema operacional: 
 Linux                    1 hr 16 mins        █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Kotlin** 
+**Eu geralmente programo em Kotlin** 
 
 ```text
 Kotlin                   3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
