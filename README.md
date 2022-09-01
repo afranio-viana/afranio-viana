@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-292-blue)
 
@@ -25,10 +25,14 @@ Here are some ideas to get you started:
 ⌚︎ Fuso horário: America/Manaus
 
 💬 Linguagens de programação: 
-Python                   2 hrs 17 mins       █████████████████████████   100.0%
+Kotlin                   3 hrs 50 mins       ███████████████░░░░░░░░░░   59.84% 
+Python                   2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.58% 
+Groovy                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17% 
+XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24% 
+Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
 
 💻 Sistema operacional: 
-Linux                    2 hrs 17 mins       █████████████████████████   100.0%
+Linux                    6 hrs 25 mins       █████████████████████████   100.0%
 
 ```
 
