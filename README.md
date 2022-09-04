@@ -15,9 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-292-blue)
+
+📊 **Esta semana eu gastei meu tempo em** 
+
+```text
+⌚︎ Fuso horário: America/Manaus
+
+💬 Linguagens de programação: 
+Kotlin                   10 hrs 7 mins       ███████████████████████░░   93.76% 
+XML                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4% 
+Groovy                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08% 
+Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99% 
+Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
+
+💻 Sistema operacional: 
+Linux                    10 hrs 47 mins      █████████████████████████   100.0%
+
+```
 
 **Eu geralmente programo em Kotlin** 
 
