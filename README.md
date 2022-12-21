@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 ⌚︎ Fuso horário: America/Manaus
 
 💬 Linguagens de programação: 
-Python                   39 mins             █████████████████████████   100.0%
+Nenhuma atividade rastreada esta semana
 
 💻 Sistema operacional: 
-Linux                    39 mins             █████████████████████████   100.0%
+Nenhuma atividade rastreada esta semana
 
 ```
 
