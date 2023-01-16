@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -25,10 +25,12 @@ Here are some ideas to get you started:
 ⌚︎ Fuso horário: America/Manaus
 
 💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
+JavaScript               3 hrs 59 mins       █████████████████████░░░░   84.87% 
+HTML                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
 
 💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
+Linux                    4 hrs 41 mins       █████████████████████████   100.0%
 
 ```
 
