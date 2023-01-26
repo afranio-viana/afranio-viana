@@ -25,10 +25,12 @@ Here are some ideas to get you started:
 ⌚︎ Fuso horário: America/Manaus
 
 💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
+JavaScript               25 mins             █████████████████████░░░░   85.17% 
+HTML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
 
 💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
+Linux                    30 mins             █████████████████████████   100.0%
 
 ```
 
