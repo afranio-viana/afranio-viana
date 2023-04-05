@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 🕑︎ Fuso horário: America/Manaus
 
 💬 Linguagens de programação: 
-Python                   3 hrs 13 mins       █████████████████████████   100.00 % 
+Python                   2 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Linux                    3 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **Eu geralmente programo em Kotlin** 
