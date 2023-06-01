@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue)
 
@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 🕑︎ Fuso horário: America/Manaus
 
 💬 Linguagens de programação: 
-Python                   53 mins             █████████████████████░░░░   84.24 % 
-HTML                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Python                   1 hr 24 mins        ██████████████████████░░░   89.32 % 
+HTML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 
 💻 Sistema operacional: 
-Linux                    1 hr 4 mins         █████████████████████████   100.00 % 
+Linux                    1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 **Eu geralmente programo em Kotlin** 
