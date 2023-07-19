@@ -25,10 +25,13 @@ Here are some ideas to get you started:
 🕑︎ Fuso horário: America/Manaus
 
 💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
+JavaScript               2 hrs 7 mins        ███████████████████████░░   91.53 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
+Windows                  2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **Eu geralmente programo em Kotlin** 
