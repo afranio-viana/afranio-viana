@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-6-blue)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
@@ -36,7 +36,7 @@ Linux                    7 hrs 52 mins       ███████████�
 Windows                  35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 ```
 
-**Eu geralmente programo em C-sharp** 
+**Eu geralmente programo em Kotlin** 
 
 ```text
 C#                       3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
