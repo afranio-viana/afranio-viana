@@ -34,11 +34,11 @@ Nenhuma atividade rastreada esta semana
 **Eu geralmente programo em C#** 
 
 ```text
-C#                       4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+C#                       4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
