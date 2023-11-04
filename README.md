@@ -25,12 +25,10 @@ Here are some ideas to get you started:
 🕑︎ Fuso horário: America/Manaus
 
 💬 Linguagens de programação: 
-Java                     1 min               ████████████████░░░░░░░░░   65.62 % 
-Java Properties          0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Groovy                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Nenhuma atividade rastreada esta semana
 
 💻 Sistema operacional: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Nenhuma atividade rastreada esta semana
 ```
 
 **Eu geralmente programo em C#** 
