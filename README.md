@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -25,11 +25,14 @@ Here are some ideas to get you started:
 🕑︎ Fuso horário: America/Manaus
 
 💬 Linguagens de programação: 
-YAML                     2 mins              █████████████████████████   98.96 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+YAML                     1 hr 22 mins        ██████████████████░░░░░░░   73.79 % 
+SQL                      21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Python                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Sistema operacional: 
-Linux                    2 mins              █████████████████████████   100.00 % 
+Linux                    1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 **Eu geralmente programo em Java** 
