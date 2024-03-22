@@ -1,52 +1,18 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+sou+Afrânio+Viana💡)](https://git.io/typing-svg)
 
-<!--
-**afranio-viana/afranio-viana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por dados, back-end e desenvolvimento mobile.
 
-Here are some ideas to get you started:
+#### Contato e redes sociais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%207%20mins-blue)
+<div align="center">
+  <a href = "mailto:afranio.esquerdo.viana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/seu_usuario_aqui/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/afr%C3%A2nio-esquerdo-viana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+<br><br>
+<div align="center">
+    <!---<img height="150em" src="https://github-readme-stats.vercel.app/api?username=afranio-viana&show_icons=true&theme=chartreuse-dark&border_radius=40"/>-->
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afranio-viana&theme=chartreuse-dark&layout=donut&hide_progress=true&border_radius=40"/>
+</div>
+  
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-🕑︎ Fuso horário: America/Manaus
-
-💬 Linguagens de programação: 
-YAML                     1 hr 22 mins        ██████████████████░░░░░░░   73.79 % 
-SQL                      21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Python                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-
-💻 Sistema operacional: 
-Linux                    1 hr 51 mins        █████████████████████████   100.00 % 
-```
-
-**Eu geralmente programo em Java** 
-
-```text
-Java                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-C#                       4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-```
-
-
-
-
-<!--END_SECTION:waka-->
-[![Afrânio Viana GitHub stats](https://github-readme-stats.vercel.app/api?username=afranio-viana)](https://github.com/anuraghazra/github-readme-stats)
