@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+sou+Afrânio+Viana💡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=1000&pause=1000&color=4FB13D&center=true&vCenter=true&random=false&width=435&lines=Oi%2C+sou+Afr%C3%A2nio+Viana%F0%9F%92%A1)](https://git.io/typing-svg)
 
 Sou apaixonado por dados, back-end e desenvolvimento mobile.
 
@@ -16,3 +16,4 @@ Sou apaixonado por dados, back-end e desenvolvimento mobile.
 </div>
   
 
+Oi, sou Afrânio Viana💡
