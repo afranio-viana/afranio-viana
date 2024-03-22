@@ -6,7 +6,7 @@ Sou apaixonado por dados, back-end e desenvolvimento mobile.
 
 <div align="center">
   <a href = "mailto:afranio.esquerdo.viana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/seu_usuario_aqui/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
+  <a href="https://www.instagram.com/afranio_viana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
   <a href="https://www.linkedin.com/in/afr%C3%A2nio-esquerdo-viana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br><br>
